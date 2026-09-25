@@ -4,4 +4,13 @@ Introduction to NumPy
 - It is especially useful in data science, machine learning, scientific computing, and mathematics.
 
 Q. How to install Numpy?
-A. In terminal write pip install numpy, which helps to install the numpy
+A. In terminal write "pip install numpy", which helps to install the numpy.
+
+Features of Numpy:
+    - It is fast 
+    - Less memory consuming like lists
+    - Easy to do the Maths Operations
+    - Used in Various departments like: 
+        1. Artificial Intelligence
+        2. Machine learning
+        3. Data science
