@@ -1,0 +1,7 @@
+Introduction to NumPy
+
+- NumPy stands for Numerical Python. It is a popular Python library used for numerical calculations and working with arrays.
+- It is especially useful in data science, machine learning, scientific computing, and mathematics.
+
+Q. How to install Numpy?
+A. In terminal write pip install numpy, which helps to install the numpy
