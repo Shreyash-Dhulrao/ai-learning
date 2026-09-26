@@ -20,5 +20,12 @@ import numpy as np
 # print(arr.ndim) # It will return 2, because it is a 2d array
 
 # ----------- Dtype Method -----------
-arr = np.array([[30,20,50],[10,40.2,60]])
-print(arr.dtype) # It will return float, because in the array it contains 1 float value i.e. 40.2
+# arr = np.array([[30,20,50],[10,40.2,60]])
+# print(arr.dtype) # It will return float, because in the array it contains 1 float value i.e. 40.2
+
+
+'''
+Arithmetic Operations
++(Addition), -(Substraction), *(Multiplication), /(Division), **(Exponentiation) 
+'''
+
