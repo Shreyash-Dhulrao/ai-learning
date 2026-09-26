@@ -29,3 +29,6 @@ Arithmetic Operations
 +(Addition), -(Substraction), *(Multiplication), /(Division), **(Exponentiation) 
 '''
 
+# Addition on array
+arr = np.array([20,30,40,50])
+print(arr + 10) # This will add 10 in every value of the array
