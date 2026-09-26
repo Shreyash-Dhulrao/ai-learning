@@ -38,9 +38,16 @@ Arithmetic Operations
 # print(arr * 5) # This will multiply every value in the array with 5
 
 '''
-More Array Methods
+More Array Functions
 Sum: It will give you the addition of total numbers present in the array
 Mean: It will give the average of all numbers present in the array
 Min: Minimum number present in the array
 Max: Maximum number present in the array
 '''
+# All Remaining Functions
+arr = np.array([30,60,90,120,150])
+print(arr.sum()) # This will give the value as 450 as total numbers addition
+print(arr.mean()) # This will give 90 as it is average of all numbers
+print(arr.min()) # Minimum number of array i.e 30
+print(arr.max()) # Maximum number of array i.e 150
+
