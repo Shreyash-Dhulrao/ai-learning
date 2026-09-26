@@ -30,5 +30,9 @@ Arithmetic Operations
 '''
 
 # Addition on array
-arr = np.array([20,30,40,50])
-print(arr + 10) # This will add 10 in every value of the array
+# arr = np.array([20,30,40,50])
+# print(arr + 10) # This will add 10 in every value of the array
+
+# Multiplication on Array
+# arr = np.array([40,30,20,10])
+# print(arr * 5) # This will multiply every value in the array with 5
