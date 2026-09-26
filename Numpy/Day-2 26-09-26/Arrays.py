@@ -16,5 +16,9 @@ import numpy as np
 # print(arr.shape) # It will return 2,3 as it contains 2 rows and 3 columns
 
 # ----------- Ndim Method -----------
-arr = np.array([[30,20,50],[10,40,60]])
-print(arr.ndim) # It will return 2, because it is a 2d array
+# arr = np.array([[30,20,50],[10,40,60]])
+# print(arr.ndim) # It will return 2, because it is a 2d array
+
+# ----------- Dtype Method -----------
+arr = np.array([[30,20,50],[10,40.2,60]])
+print(arr.dtype) # It will return float, because in the array it contains 1 float value i.e. 40.2
