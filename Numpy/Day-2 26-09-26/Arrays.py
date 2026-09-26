@@ -36,3 +36,11 @@ Arithmetic Operations
 # Multiplication on Array
 # arr = np.array([40,30,20,10])
 # print(arr * 5) # This will multiply every value in the array with 5
+
+'''
+More Array Methods
+Sum: It will give you the addition of total numbers present in the array
+Mean: It will give the average of all numbers present in the array
+Min: Minimum number present in the array
+Max: Maximum number present in the array
+'''
