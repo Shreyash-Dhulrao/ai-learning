@@ -39,12 +39,12 @@ arr = arr.reshape(4, 6)
 #         - values > 30 → 2
 
 # Given array
-arr = np.array([10, 25, 7, 40, 15, 3, 50, 18])
+# arr = np.array([10, 25, 7, 40, 15, 3, 50, 18])
 
-new_arr = np.zeros(len(arr), dtype=int)
+# new_arr = np.zeros(len(arr), dtype=int)
 
-new_arr[arr < 10] = 0
-new_arr[(arr >= 10) & (arr <= 30)] = 1
-new_arr[arr > 30] = 2
+# new_arr[arr < 10] = 0
+# new_arr[(arr >= 10) & (arr <= 30)] = 1
+# new_arr[arr > 30] = 2
 
-print(new_arr) # This will print the values of array in which it is added as 0, 1, 2
+# print(new_arr) # This will print the values of array in which it is added as 0, 1, 2
